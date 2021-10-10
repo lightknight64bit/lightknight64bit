@@ -1,6 +1,6 @@
 ## Greetings fellow human, This is B. Govind Sudarshan 
 
-I mainly work on **Data Science and IoT** related applications but I will be glad to help you on anything and also learn a bit in the process. 
+Aspiring Data Scientist and ML Engineer.
   
 ## My links
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
